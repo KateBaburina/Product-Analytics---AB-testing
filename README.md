@@ -2,8 +2,6 @@
 
 The project includes 3 files that were created to help with A/B experiements.
 
-You can look around to get an idea how to structure your project and, when done, you can safely delete this project.
-
 [Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
