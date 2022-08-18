@@ -12,7 +12,7 @@ We have a service that consists of the social network and the messenger. We are 
 
 ## A/B testing
 
-The project contains 3 files that were created to help with A/B experiements.
+The project consists of 3 files that were created to help with A/B experiements.
 
 ## AA_tests
 
@@ -37,4 +37,4 @@ ClickHouse
 Matplotlib, Seaborn
 
 ## Task
-We need to prform A/B experiment to decide if the new recommendation system should be deployed to production or not.
+We need to perform A/B experiment to decide if the new recommendation system should be deployed to production or not.
