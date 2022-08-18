@@ -1,7 +1,6 @@
-# Sample GitLab Project
+# A/B testing
 
-This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
-named and filled with lorem ipsum.
+The project includes 3 files that were created to help with A/B experiements.
 
 You can look around to get an idea how to structure your project and, when done, you can safely delete this project.
 
@@ -11,4 +10,8 @@ You can look around to get an idea how to structure your project and, when done,
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+AA_tests:
+
+A/A test to check if the groups are similar. Before starting the A/B experiment evaluation, we need to make sure that the splitting into groups went well and the groups are equal.
 
